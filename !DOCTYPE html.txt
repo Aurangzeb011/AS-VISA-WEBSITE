@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>AS Visa Services & Appointments</title>
+    <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+    <!-- Header / Hero Section -->
+    <header>
+        <img src="images/logo.png" alt="AS Visa Logo" class="logo">
+        <h1>AS Visa Services & Appointments</h1>
+        <p>All Country Visa | Embassy Appointment | Documentation Support</p>
+        <a href="https://wa.me/919910894085" target="_blank" class="whatsapp-btn">WhatsApp Us</a>
+    </header>
+
+    <!-- Services Section -->
+    <section id="services">
+        <h2>Our Services</h2>
+        <ul>
+            <li>Tourist Visa Assistance</li>
+            <li>Work Visa Support</li>
+            <li>Study Visa Guidance</li>
+            <li>Appointment Booking</li>
+        </ul>
+    </section>
+
+    <!-- Appointment Form -->
+    <section id="appointment">
+        <h2>Book Your Visa Appointment</h2>
+        <iframe src="https://docs.google.com/forms/d/e/YOUR_FORM_ID/viewform?embedded=true" width="100%" height="600" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
+    </section>
+
+    <!-- Contact Section -->
+    <section id="contact">
+        <h2>Contact Us</h2>
+        <p>Address: Baba Kharak Singh Marg, New Delhi</p>
+        <p>Phone: +91 9910894085 | +91 7011503745</p>
+        <iframe src="https://www.google.com/maps/embed?pb=YOUR_MAP_EMBED_CODE" width="100%" height="300" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
+    </section>
+
+    <!-- Footer -->
+    <footer>
+        <p>&copy; 2026 AS Visa Services & Appointments. All Rights Reserved.</p>
+    </footer>
+</body>
+</html>

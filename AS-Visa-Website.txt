@@ -1,0 +1,8 @@
+AS-Visa-Website/
+│
+├── index.html          <-- Homepage HTML file
+├── css/
+│     └── style.css     <-- Styling file
+├── images/
+│     ├── logo.png      <-- Your logo image
+│     └── background.jpg <-- Optional background image
